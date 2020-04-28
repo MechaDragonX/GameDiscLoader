@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Output and Test Directories
+GameDiscLoader\out\
+GameDiscLoader\test\
